@@ -8,7 +8,7 @@ The interactive dashboard presents key performance metrics, data visualizations,
 
 ## 🚀 Live Dashboard
 
-**Streamlit Application:** [Click Here to Open Live Dashboard](YOUR_STREAMLIT_LINK_HERE)
+**Streamlit Application:** [Click Here to Open Live Dashboard](https://my-anatomy-module2-dddy9k8up7igmywiappgxmb.streamlit.app/)
 
 *Note: The live dashboard link will be updated after deploying the project on Streamlit Community Cloud.*
 
